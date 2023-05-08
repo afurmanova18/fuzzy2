@@ -4,7 +4,5 @@ D:\ПРОЕKТЫ С#\fuzzy\fuzzy\obj\Debug\fuzzy.csproj.CoreCompileInputs.cache
 D:\ПРОЕKТЫ С#\fuzzy\fuzzy\bin\Debug\fuzzy.exe.config
 D:\ПРОЕKТЫ С#\fuzzy\fuzzy\bin\Debug\fuzzy.exe
 D:\ПРОЕKТЫ С#\fuzzy\fuzzy\bin\Debug\fuzzy.pdb
-D:\ПРОЕKТЫ С#\fuzzy\fuzzy\bin\Debug\FuzzySharp.dll
-D:\ПРОЕKТЫ С#\fuzzy\fuzzy\obj\Debug\fuzzy.csproj.CopyComplete
 D:\ПРОЕKТЫ С#\fuzzy\fuzzy\obj\Debug\fuzzy.exe
 D:\ПРОЕKТЫ С#\fuzzy\fuzzy\obj\Debug\fuzzy.pdb
